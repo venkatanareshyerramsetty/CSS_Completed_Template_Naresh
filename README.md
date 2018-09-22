@@ -1,2 +1,2 @@
 # CSS_Completed_Template_Naresh
-CSS all tags examples 
+this demonstrates  all the basic tags of css course
